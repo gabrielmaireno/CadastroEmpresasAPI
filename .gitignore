@@ -1,0 +1,37 @@
+# Build e arquivos binários
+bin/
+obj/
+
+# Arquivos do Visual Studio
+.vs/
+*.user
+*.suo
+
+# Configurações do Rider
+.idea/
+
+# Configurações do sistema
+*.db
+*.sqlite
+*.sqlite3
+
+# Arquivos de log
+*.log
+
+# User Secrets (pasta local)
+secrets/
+
+# Configurações locais do projeto
+appsettings.Development.json
+
+# Arquivos de publish
+*.publish.xml
+publish/
+
+# Pacotes NuGet
+*.nupkg
+packages/
+
+# Outros
+*.DS_Store
+*.Thumbs.db
